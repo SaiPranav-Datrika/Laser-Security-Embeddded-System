@@ -1,4 +1,4 @@
-# Laser-Security-Embeddded-System
+# Laser-Security-Embedded-System
 
 ![](hmdb_page-0001.jpg)
 
